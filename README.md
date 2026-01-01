@@ -170,7 +170,7 @@ Also worked with: Markdown, npm, pnpm, Babel, Chart.js, Nodemon
 
 ![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupeshbisen&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rupeshbisen&theme=transparent)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rupeshbisen&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshbisen&layout=compact)
 

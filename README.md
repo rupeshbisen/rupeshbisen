@@ -72,6 +72,11 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshbisen&bg_color=00000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Active%20Graph" alt="Activity Graph" width="100%" />
 
   <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeshbisen&show_icons=true&theme=radical&hide_border=true" alt="Rupesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshbisen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  
+  <br />
   
   <img src="https://raw.githubusercontent.com/rupeshbisen/rupeshbisen/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="margin-top: 15px;" />
   

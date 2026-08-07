@@ -1,18 +1,46 @@
 <div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rupesh+Bisen+👋;Frontend+Engineer;Full-Stack+Developer;Real-Time+Systems+Architect" alt="Typing SVG" /></a>
-
-*Building production-grade platforms — from scalable architectures to real-time systems.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshbisen.dev-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rupeshbisen.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-bisen)
-[![Email](https://img.shields.io/badge/Email-rupeshkbisen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupeshkbisen@gmail.com)
+<h1 align="center">Hi, I'm Rupesh Bisen 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Full-Stack+Developer;Real-Time+Systems+Architect" alt="Typing SVG" /></a>
 
 </div>
 
----
+<br/>
+<!-- Social icons section -->
+<p align="center">
+<a href="https://rupeshbisen.dev"><img width="35px" alt="portfolio" title="Portfolio Website" src="https://rupeshbisen.dev/favicon.ico?favicon.16xhma1dslz2j.ico"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:rupeshkbisen@gmail.com"><img width="32px" alt="gmail" title="Gmail" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon_gmail_2026_v2.ico"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/rupesh-bisen"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/RupeshBisen_"><img width="32px" alt="Twitter" title="Twitter" src="https://x.com/favicon.ico"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="stackoverflow" title="Stackoverflow"><img width="32px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEX/XgD/XwDHTA3/YABQKBoAER/QTwz/YQCZPhMAFB4fHB14NBcAFx4eHB3ZUgruWQZoLxg2IRtEJRvhVAkAGB2wRREYGh2BNhZfLBkLGR4aGx3nVggzIBymQhISGh32WwS8SQ9AJBuTPBSLORVWKhkADh+4PaZeAAAAuUlEQVR4AbzQRQLDMAwAQaturCqRw8z4/yeWMXTsXsco8Zdgjw5yG4+Gwg2TJzJJyY1D0WJN9pqCIwFd1rym6PkBohtqDhYqI4opEZhmeVjMFVTJOgujm3IAMwSsuNbsB25WOr8I1/uwsSjPOa2b+UYjs9oGg45NY/5cUKRrJv9kR6GFYo4pc5bnGWsKQMwVQfUdcZ13y+niPTgk9SAXlo73UjeLlmjW8SNuYYEhPZuWO0XzSVw2eAEARO8NFMONSEkAAAAASUVORK5CYII="/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-## 👨‍💻 About Me
+<!-- Social badges section -->
+<p align="center">
+
+  <a href="https://github.com/rupeshbisen?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rupeshbisen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/rupeshbisen?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rupeshbisen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/rupeshbisen">
+    <img alt="views" title="GitHub profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frupeshbisen&countColor=%2355960c&style=for-the-badge&labelColor=%23488207"/></a>
+</p>
+
+<br/>
+
+
+<!-- GitHub Star link -->
+<p align="center">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/>
+</p>
+
+
+<details open> 
+  <summary><h2>👨‍💻 About Me</h2></summary>
 
 I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, specializing in **React, Next.js, and Node.js**. I architect and develop modern web applications with a focus on real-time features, clean architecture, and exceptional user experiences.
 
@@ -21,45 +49,11 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
 - ☁️ **Cloud & DevOps:** Comfortable shipping products end-to-end with Docker, AWS, and CI/CD pipelines.
 - 📍 **Location:** Nagpur, India (Open to Remote opportunities).
 
----
+</details>
 
-## 🛠️ Tech Stack
+<details open> 
+  <summary><h2>🧩 Featured Work</h2></summary>
 
-<div align="center">
-
-### ⚛️ Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend & Real-Time
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ Database & Cloud
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🧪 Testing & Quality
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![React Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-</div>
-
----
-
-## 🧩 Featured Work
 
 | 🚀 Project | 🛠️ Tech Stack | 📝 Description |
 | :--- | :--- | :--- |
@@ -69,24 +63,118 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
 | **Bazigar** <br>*(Gaming Platform)* | React, Node.js, GraphQL, AWS Lambda | Real-time multiplayer gaming hub supporting games like Matrix and Tetris with live leaderboards. |
 | **Vergilai** <br>*(AI EdTech)* | React, Node.js, Express, AWS S3 | AI-driven learning platform tailored for personalized educational experiences and dynamic content. |
 
----
+</details>
 
-## 📊 Analytics & Activity
+<details open> 
+  <summary><h2>🛠️ My Tech Stack & Tools</h2></summary>
 
-<div align="center">
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshbisen&bg_color=00000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Active%20Graph" alt="Activity Graph" width="100%" />
+  <p>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+      <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+      <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
+  </p>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+      <img alt="Next" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=next.js&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+      <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
+      <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white">
+      <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+      <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white">
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+      <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=white">
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+      <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+      <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
+      <img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white">
+      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+      <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
+      <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
+  </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+      <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+      <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
+      <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+      <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <img alt="rupeshbisen's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=rupeshbisen&theme=radical&hide_border=true&short_numbers=true" />
+
+  <h3>💻 GitHub Profile Stats</h3>
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshbisen&show_icons=true&theme=radical&hide_border=true" alt="Rupesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshbisen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  
+  <img alt="rupeshbisen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rupeshbisen&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
+  <img alt="rupeshbisen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rupeshbisen&layout=compact&theme=radical&hide_border=true" height="192px"/>
+
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshbisen&bg_color=00000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true&custom_title=Rupesh%20Bisen's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+
   <br />
   
   <img src="https://raw.githubusercontent.com/rupeshbisen/rupeshbisen/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="margin-top: 15px;" />
-  
-</div>
+</details>
 
 ---
 
@@ -94,7 +182,5 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
   
 #### ⭐ *Let’s build something incredible together.*
 
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29736776/rupesh-bisen)
-[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/RupeshBisen_)
-
 </div>
+

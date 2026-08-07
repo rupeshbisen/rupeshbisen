@@ -139,13 +139,15 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
       <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white">
       <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white">
       <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
+      <img alt="BrowserStack" src="https://img.shields.io/badge/BrowserStack-FFFFFF?logo=browserstack&logoColor=black">
       <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-040404?logo=codesandbox&logoColor=white">
+      <img alt="DevTools" src="https://img.shields.io/badge/DevTools-4285F4?logo=googlechrome&logoColor=white">
       <img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white">
       <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white">
       <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
       <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-      <img alt="GitHub Codespaces" src="https://img.shields.io/badge/GitHub%20Codespaces-181717?logo=github&logoColor=white">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
       <img alt="Google Search Console" src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?logo=google&logoColor=white">
       <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
@@ -164,7 +166,7 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -176,7 +178,7 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
   <br />
 
   <img alt="rupeshbisen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rupeshbisen&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px"/>
-  <img alt="rupeshbisen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rupeshbisen&layout=compact&theme=radical&hide_border=true" height="192px"/>
+  <img alt="rupeshbisen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rupeshbisen&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/>
 
   <br/>
 

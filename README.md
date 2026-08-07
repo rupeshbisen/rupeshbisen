@@ -113,6 +113,8 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
 
   <p>
       <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+      <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white">
+      <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white">
       <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
@@ -131,22 +133,34 @@ I'm a **Frontend-heavy Software Engineer** with strong full-stack capabilities, 
   <h3>💻 Software and Tools</h3>
 
   <p>
+      <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-000000?logo=rocket&logoColor=white">
       <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
       <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white">
       <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white">
       <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white">
       <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
-      <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+      <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-040404?logo=codesandbox&logoColor=white">
+      <img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white">
       <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white">
       <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
+      <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+      <img alt="GitHub Codespaces" src="https://img.shields.io/badge/GitHub%20Codespaces-181717?logo=github&logoColor=white">
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+      <img alt="Google Search Console" src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?logo=google&logoColor=white">
       <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
       <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white">
+      <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
+      <img alt="Mirror" src="https://img.shields.io/badge/Mirror-4C5C68?logo=unity&logoColor=white">
+      <img alt="Nakama" src="https://img.shields.io/badge/Nakama-2487DF?logo=nakama&logoColor=white">
+      <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white">
+      <img alt="OpenRouter" src="https://img.shields.io/badge/OpenRouter-363B49?logo=openai&logoColor=white">
       <img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+      <img alt="Stitch" src="https://img.shields.io/badge/Stitch-024C68?logo=stitch&logoColor=white">
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+      <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white">
   </p>
 </details>
 
